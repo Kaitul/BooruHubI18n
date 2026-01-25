@@ -111,6 +111,8 @@
 	<string name="downloads_channel_description">Downloads status</string>
 	<string name="downloads_channel_name">Downloads</string>
 
+	<string name="muzei_updates_channel_name">Muzei Updates</string>
+
 	<string name="login">Login</string>
 	<string name="login_api_key">API key</string>
 	<string name="login_password">Password</string>
@@ -138,6 +140,7 @@
 	<string name="msg_no_posts">No posts found</string>
 	<string name="msg_no_tags">No tags found</string>
 	<string name="msg_qr_error">Invalid QR Code.</string>
+	<string name="msg_muzei_updating_wallpaper">Updating wallpaper…</string>
 
 	<string name="product_description">• Remove the limit on the number of boorus you can add\n• Support exporting and importing backups of boorus and tags</string>
 	<string name="product_name">BooruHub Premium</string>
