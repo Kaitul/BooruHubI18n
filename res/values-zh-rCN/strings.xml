@@ -83,6 +83,7 @@
 	<string name="booru_hint_name">名称</string>
 	<string name="booru_hint_type">类型</string>
 	<string name="booru_hint_url">URL</string>
+	<string name="booru_hint_api_id">User ID</string>
 	<string name="booru_save">保存</string>
 
 	<string name="details_label_children">子项</string>
@@ -108,17 +109,20 @@
 	<string name="downloads_channel_description">下载状态</string>
 	<string name="downloads_channel_name">下载</string>
 
+	<string name="muzei_updates_channel_name">Muzei 更新</string>
 	<string name="login">登录</string>
 	<string name="login_api_key">API 密钥</string>
 	<string name="login_password">密码</string>
 	<string name="login_username">用户名</string>
 
+	<string name="msg_backup_saved">备份已保存</string>
 	<string name="msg_booru_invalid">无效的 booru</string>
 	<string name="msg_camera_permission_denied">相机权限被拒绝</string>
 	<string name="msg_clipboard_empty">剪贴板为空</string>
 	<string name="msg_clipboard_invalid">剪贴板文本无效</string>
 	<string name="msg_download_complete">下载完成</string>
 	<string name="msg_download_failed">下载失败</string>
+	<string name="msg_downloading_summary">正在下载 %d 个文件…</string>
 	<string name="msg_empty">空空如也</string>
 	<string name="msg_error_battery_optimization">操作不支持</string>
 	<string name="msg_fav_not_supported">不支持收藏</string>
@@ -131,6 +135,7 @@
 	<string name="msg_no_tags">没有找到标签</string>
 	<string name="msg_qr_error">无效的二维码</string>
 
+	<string name="msg_muzei_updating_wallpaper">正在更新壁纸…</string>
 	<string name="product_description">• 移除 Booru 数量限制\n• 支持备份与恢复</string>
 	<string name="product_name">BooruHub Premium</string>
 	<string name="product_tips">这是一次性付费，你可以在任何时候激活</string>
@@ -202,6 +207,7 @@
 	<string name="settings_overwrite_mode">覆盖模式</string>
 	<string name="settings_preview_size">预览大小</string>
 	<string name="settings_resume_downloads">恢复下载</string>
+	<string name="settings_parallel_download_count">并行下载数</string>
 	<string name="settings_safe_mode">安全模式</string>
 	<string name="settings_scale_mode">缩放模式</string>
 	<string name="settings_scale_mode_fill_screen">填满屏幕</string>
@@ -224,6 +230,7 @@
 	<string name="settings_summary_offscreen_page_limit">应该保留在当前可见页面两侧的页面数量</string>
 	<string name="settings_summary_overwrite_mode">用新结果覆盖当前结果</string>
 	<string name="settings_summary_resume_downloads">打开应用时继续下载</string>
+	<string name="settings_summary_parallel_download_count">同时下载的最大数量</string>
 	<string name="settings_summary_safe_mode">启用安全模式以隐藏敏感内容</string>
 	<string name="settings_summary_show_action_bar">在网格下方显示操作按钮</string>
 	<string name="settings_summary_show_post_info">显示帖子 ID 和分辨率</string>
@@ -270,4 +277,9 @@
 	<string name="user_action_recommendations">推荐</string>
 	<string name="user_delete_account">移除账号</string>
 	<string name="user_delete_account_message">账号将从应用中移除</string>
+	<string name="booru_hint_api_key">API Key</string>
+	<string name="msg_backup_restore_failed">备份恢复失败</string>
+	<string name="msg_backup_restored">备份已恢复</string>
+	<string name="msg_backup_save_failed">备份保存失败</string>
+	<string name="msg_download_preparing">准备下载中…</string>
 </resources>

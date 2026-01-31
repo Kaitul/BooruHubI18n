@@ -13,6 +13,7 @@
 	<string name="action_details_copy_link">リンクをコピー</string>
 	<string name="action_details_open_link">リンクを開く</string>
 	<string name="action_details_share_link">リンクを共有</string>
+	<string name="action_details_search_similar">Search for similar posts</string>
 	<string name="action_download">ダウンロード</string>
 	<string name="action_download_pause_or_resume">ダウンロードの一時停止または再開</string>
 	<string name="action_downloads_options">ダウンロードオプション</string>
@@ -82,6 +83,7 @@
 	<string name="booru_hint_name">名前</string>
 	<string name="booru_hint_type">タイプ</string>
 	<string name="booru_hint_url">URL</string>
+	<string name="booru_hint_api_id">User ID</string>
 	<string name="booru_save">保存</string>
 
 	<string name="details_label_children">子</string>
@@ -107,6 +109,7 @@
 	<string name="downloads_channel_description">ダウンロード状況</string>
 	<string name="downloads_channel_name">ダウンロード</string>
 
+	<string name="muzei_updates_channel_name">Muzei Updates</string>
 	<string name="login">ログイン</string>
 	<string name="login_api_key">APIキー</string>
 	<string name="login_password">パスワード</string>
@@ -122,6 +125,7 @@
 	<string name="msg_clipboard_invalid">クリップボードのテキストが無効です</string>
 	<string name="msg_download_complete">ダウンロード完了</string>
 	<string name="msg_download_failed">ダウンロード失敗</string>
+	<string name="msg_downloading_summary">Downloading %d files…</string>
 	<string name="msg_empty">空</string>
 	<string name="msg_error_battery_optimization">サポートされていない操作です</string>
 	<string name="msg_fav_not_supported">サポートされていません</string>
@@ -134,6 +138,7 @@
 	<string name="msg_no_tags">タグがありません</string>
 	<string name="msg_qr_error">QRコードが無効です</string>
 
+	<string name="msg_muzei_updating_wallpaper">Updating wallpaper…</string>
 	<string name="product_description">• 追加できるBooruの数の制限を解除します\n• Booruとタグのバックアップのエクスポート/インポートをサポートします</string>
 	<string name="product_name">BooruHub プレミアム</string>
 	<string name="product_tips">これは一回限りの購入です。いつでも購入を復元できます。</string>
@@ -205,6 +210,7 @@
 	<string name="settings_overwrite_mode">上書きモード</string>
 	<string name="settings_preview_size">プレビューサイズ</string>
 	<string name="settings_resume_downloads">ダウンロードを再開</string>
+	<string name="settings_parallel_download_count">Parallel download count</string>
 	<string name="settings_safe_mode">セーフモード</string>
 	<string name="settings_scale_mode">スケールモード</string>
 	<string name="settings_scale_mode_fill_screen">画面を埋める</string>
@@ -227,6 +233,7 @@
 	<string name="settings_summary_offscreen_page_limit">現在のページの両側に保持されるページ数</string>
 	<string name="settings_summary_overwrite_mode">現在の結果を新しいもので上書きします</string>
 	<string name="settings_summary_resume_downloads">アプリ開いたときにダウンロードを再開する</string>
+	<string name="settings_summary_parallel_download_count">Maximum number of parallel downloads</string>
 	<string name="settings_summary_safe_mode">セーフモードを有効にして露骨なコンテンツを隠す</string>
 	<string name="settings_summary_show_action_bar">グリッドの下にアクションボタンを表示する</string>
 	<string name="settings_summary_show_post_info">投稿IDと解像度を表示する</string>
@@ -273,4 +280,6 @@
 	<string name="user_action_recommendations">おすすめ</string>
 	<string name="user_delete_account">アカウントを削除</string>
 	<string name="user_delete_account_message">アカウントはアプリから削除されます</string>
+	<string name="booru_hint_api_key">API Key</string>
+	<string name="msg_download_preparing">Preparing downloads…</string>
 </resources>
