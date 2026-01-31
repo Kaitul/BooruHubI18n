@@ -46,7 +46,6 @@
 	<string name="action_save_as_exclude">除外として保存</string>
 	<string name="action_saved_tags_filter_host">ホストでフィルター</string>
 	<string name="action_search">検索</string>
-	<string name="action_search_options_save_to_collection">コレクションに保存</string>
 	<string name="action_search_options_save_to_muzei">Muzeiに保存</string>
 	<string name="action_send_email">メールを送信</string>
 	<string name="action_tags_category">カテゴリ</string>
@@ -253,7 +252,7 @@
 	<string name="title_popular">人気</string>
 	<string name="title_posts">投稿</string>
 	<string name="title_saved">保存済み</string>
-	<string name="title_saved_collection">コレクション</string>
+	<string name="title_saved_history">History</string>
 	<string name="title_saved_muzei">Muzei</string>
 	<string name="title_saved_tags">タグ</string>
 	<string name="title_search_pools">プールを検索</string>
