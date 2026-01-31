@@ -129,6 +129,7 @@
 	<string name="msg_download_complete">Download complete</string>
 	<string name="msg_download_failed">Download failed</string>
 	<string name="msg_download_preparing">Preparing downloads…</string>
+	<string name="msg_downloading_summary">Downloading %d files…</string>
 	<string name="msg_empty">Empty</string>
 	<string name="msg_error_battery_optimization">Operation not supported</string>
 	<string name="msg_fav_not_supported">Not supported</string>
