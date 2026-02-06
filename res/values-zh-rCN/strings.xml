@@ -171,6 +171,7 @@
 	<string name="settings_category_details">详情</string>
 	<string name="settings_category_developer">开发者</string>
 	<string name="settings_category_downloads">下载</string>
+	<string name="settings_category_notification">通知</string>
 	<string name="settings_category_feedback">反馈</string>
 	<string name="settings_category_grid">网格</string>
 	<string name="settings_category_muzei">Muzei</string>
