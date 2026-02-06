@@ -207,6 +207,8 @@
 	<string name="settings_overwrite_mode">覆盖模式</string>
 	<string name="settings_preview_size">预览大小</string>
 	<string name="settings_resume_downloads">恢复下载</string>
+	<string name="settings_show_download_complete_notification">下载完成通知</string>
+	<string name="settings_show_download_failed_notification">下载失败通知</string>
 	<string name="settings_parallel_download_count">并行下载数</string>
 	<string name="settings_safe_mode">安全模式</string>
 	<string name="settings_scale_mode">缩放模式</string>
@@ -230,6 +232,8 @@
 	<string name="settings_summary_offscreen_page_limit">应该保留在当前可见页面两侧的页面数量</string>
 	<string name="settings_summary_overwrite_mode">用新结果覆盖当前结果</string>
 	<string name="settings_summary_resume_downloads">打开应用时继续下载</string>
+	<string name="settings_summary_show_download_complete_notification">下载成功后显示通知提示</string>
+	<string name="settings_summary_show_download_failed_notification">下载失败后显示通知提示</string>
 	<string name="settings_summary_parallel_download_count">同时下载的最大数量</string>
 	<string name="settings_summary_safe_mode">启用安全模式以隐藏敏感内容</string>
 	<string name="settings_summary_show_action_bar">在网格下方显示操作按钮</string>

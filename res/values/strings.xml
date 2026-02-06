@@ -213,6 +213,8 @@
 	<string name="settings_overwrite_mode">Overwrite mode</string>
 	<string name="settings_preview_size">Preview size</string>
 	<string name="settings_resume_downloads">Resume downloads</string>
+	<string name="settings_show_download_complete_notification">Download complete notifications</string>
+	<string name="settings_show_download_failed_notification">Download failed notifications</string>
 	<string name="settings_parallel_download_count">Parallel download count</string>
 	<string name="settings_safe_mode">Safe mode</string>
 	<string name="settings_scale_mode">Scale mode</string>
@@ -236,6 +238,8 @@
 	<string name="settings_summary_offscreen_page_limit">The number of pages that should be retained to either side of the currently visible page(s)</string>
 	<string name="settings_summary_overwrite_mode">Overwrite the current result with the new one</string>
 	<string name="settings_summary_resume_downloads">Resume downloads when the app is opened</string>
+	<string name="settings_summary_show_download_complete_notification">Show a notification when a download finishes successfully</string>
+	<string name="settings_summary_show_download_failed_notification">Show a notification when a download fails</string>
 	<string name="settings_summary_parallel_download_count">Maximum number of parallel downloads</string>
 	<string name="settings_summary_safe_mode">Enable safe mode to hide explicit content</string>
 	<string name="settings_summary_show_action_bar">Display the action button below the grid</string>

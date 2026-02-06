@@ -210,6 +210,7 @@
 	<string name="settings_overwrite_mode">上書きモード</string>
 	<string name="settings_preview_size">プレビューサイズ</string>
 	<string name="settings_resume_downloads">ダウンロードを再開</string>
+	<string name="settings_show_download_failed_notification">Download failed notifications</string>
 	<string name="settings_parallel_download_count">Parallel download count</string>
 	<string name="settings_safe_mode">セーフモード</string>
 	<string name="settings_scale_mode">スケールモード</string>
@@ -233,6 +234,7 @@
 	<string name="settings_summary_offscreen_page_limit">現在のページの両側に保持されるページ数</string>
 	<string name="settings_summary_overwrite_mode">現在の結果を新しいもので上書きします</string>
 	<string name="settings_summary_resume_downloads">アプリ開いたときにダウンロードを再開する</string>
+	<string name="settings_summary_show_download_failed_notification">Show a notification when a download fails</string>
 	<string name="settings_summary_parallel_download_count">Maximum number of parallel downloads</string>
 	<string name="settings_summary_safe_mode">セーフモードを有効にして露骨なコンテンツを隠す</string>
 	<string name="settings_summary_show_action_bar">グリッドの下にアクションボタンを表示する</string>
@@ -282,4 +284,6 @@
 	<string name="user_delete_account_message">アカウントはアプリから削除されます</string>
 	<string name="booru_hint_api_key">API Key</string>
 	<string name="msg_download_preparing">Preparing downloads…</string>
+	<string name="settings_show_download_complete_notification">Download complete notifications</string>
+	<string name="settings_summary_show_download_complete_notification">Show a notification when a download finishes successfully</string>
 </resources>

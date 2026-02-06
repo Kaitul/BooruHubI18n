@@ -210,6 +210,7 @@
 	<string name="settings_overwrite_mode">覆寫模式</string>
 	<string name="settings_preview_size">預覽大小</string>
 	<string name="settings_resume_downloads">繼續下載</string>
+	<string name="settings_show_download_failed_notification">Download failed notifications</string>
 	<string name="settings_parallel_download_count">Parallel download count</string>
 	<string name="settings_safe_mode">安全模式</string>
 	<string name="settings_scale_mode">縮放模式</string>
@@ -233,6 +234,7 @@
 	<string name="settings_summary_offscreen_page_limit">應該保留在目前可見頁面兩側的頁面數量</string>
 	<string name="settings_summary_overwrite_mode">用新結果覆寫目前結果</string>
 	<string name="settings_summary_resume_downloads">開啟應用程式時繼續下載</string>
+	<string name="settings_summary_show_download_failed_notification">Show a notification when a download fails</string>
 	<string name="settings_summary_parallel_download_count">Maximum number of parallel downloads</string>
 	<string name="settings_summary_safe_mode">啟用安全模式以隱藏敏感內容</string>
 	<string name="settings_summary_show_action_bar">在格線下方顯示動作按鈕</string>
@@ -282,4 +284,6 @@
 	<string name="user_delete_account_message">此帳戶將會從這個應用程式中刪除</string>
 	<string name="booru_hint_api_key">API Key</string>
 	<string name="msg_download_preparing">Preparing downloads…</string>
+	<string name="settings_show_download_complete_notification">Download complete notifications</string>
+	<string name="settings_summary_show_download_complete_notification">Show a notification when a download finishes successfully</string>
 </resources>
