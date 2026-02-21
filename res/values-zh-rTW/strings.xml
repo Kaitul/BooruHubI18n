@@ -211,7 +211,7 @@
 	<string name="settings_overwrite_mode">覆寫模式</string>
 	<string name="settings_preview_size">預覽大小</string>
 	<string name="settings_resume_downloads">繼續下載</string>
-	<string name="settings_show_download_failed_notification">下載失敗通知ㄥ</string>
+	<string name="settings_show_download_failed_notification">下載失敗通知</string>
 	<string name="settings_parallel_download_count">並行下載數</string>
 	<string name="settings_safe_mode">安全模式</string>
 	<string name="settings_scale_mode">縮放模式</string>
